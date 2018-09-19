@@ -12,7 +12,7 @@ GET /api/whoami which you can visit [here](https://peat-freckle.glitch.me/api/wh
 
 1. Https or SSH download this project.
 2. `npm install`
-3. navigate to localhost:3000/api/timestamp
+3. navigate to localhost:3000/api/whoami
 
 ## User stories:
 
